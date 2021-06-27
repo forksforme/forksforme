@@ -5,7 +5,6 @@
     <link>http://forksforme.com/tags/</link>
     <description>Recent content in Tags on forks() for me!</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>© 2021 Gabriel Călin</copyright><atom:link href="http://forksforme.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://forksforme.com/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
