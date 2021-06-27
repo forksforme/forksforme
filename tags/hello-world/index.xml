@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hello world on forks() for me!</title>
+    <link>https://www.forksforme.com/tags/hello-world/</link>
+    <description>Recent content in hello world on forks() for me!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 27 Jun 2021 07:51:49 +0100</lastBuildDate><atom:link href="https://www.forksforme.com/tags/hello-world/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Blood!</title>
+      <link>https://www.forksforme.com/blog/2021/06/first-blood/</link>
+      <pubDate>Sun, 27 Jun 2021 07:51:49 +0100</pubDate>
+      
+      <guid>https://www.forksforme.com/blog/2021/06/first-blood/</guid>
+      <description>The very first post.  This site is statically generated with Hugo and hosted on GitHub pages. My intention is to write various work related stuff now and then. Mostly to try and keep track of my ongoing projects, my technological interests and my thoughts.
+Nothing fancy. Enjoy the ride!</description>
+    </item>
+    
+  </channel>
+</rss>
